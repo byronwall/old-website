@@ -17,6 +17,7 @@ Created a posts folder with a ~~blog subfolder~~.  Do not create the subfolders 
 Moved an image over for the teaser.  Link here does not need to include `/images/`, just the file name.
 
 Things left to do
+
  - modify the home page to look more professional, guess I need some HTML for this
  - create portfolio section and give it a nav link
  - create a couple more blog posts to see how they all lineup together
