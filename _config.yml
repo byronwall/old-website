@@ -5,7 +5,7 @@ description: blog and portfolio of byron wall
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://byroni.us
 
 # Jekyll configuration
 
@@ -22,13 +22,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Byron Wall
+  email: byron@byroni.us
   twitter:
   google:
-    ad-client: 
-    ad-slot: 
-  bio: 
+    ad-client:
+    ad-slot:
+  bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 

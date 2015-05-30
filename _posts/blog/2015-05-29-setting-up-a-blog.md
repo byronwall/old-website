@@ -1,3 +1,8 @@
+---
+layout: article
+title: setting up this blog
+---
+
 # setting up this blog #
 
 This post contains a little bit of info about how I got this Jekyl blog setup.  It's your standard first post...
