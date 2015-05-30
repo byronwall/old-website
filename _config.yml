@@ -15,6 +15,7 @@ sass:
 permalink: pretty
 kramdown:
   toc_levels: 1..2
+markdown: redcarpet
 highlighter: pygments
 gems:
   - jekyll-sitemap
