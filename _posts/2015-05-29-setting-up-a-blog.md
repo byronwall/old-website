@@ -1,17 +1,23 @@
 ---
 layout: article
-title: setting up this blog
+title: Setting up this blog
 category: blog
 ---
 
 This post contains a little bit of info about how I got this Jekyl blog setup.  It's your standard first post...
 
-fork a copy of Skinny Bones
+Fork a copy of Skinny Bones.  Fortunately, this is bare bones enough that Git Hub can build it outright.
 
-add a little bit of starter info to the `\_config.yml` file. **don't accidentally leave out the space between the `:` in the key-value pairs**
+Add a little bit of starter info to the `\_config.yml` file. **Don't accidentally leave out the space between the `:` in the key-value pairs**
 
-cloned a copy of the repository to a local directory to avoid creating everything in the web interface
+Cloned a copy of the repository to a local directory to avoid creating everything in the web interface.  Using Git Hub for Windows saves a lot of hassle over the other interfaces available.
 
-created a posts folder with a blog subfolder
+Created a posts folder with a ~~blog subfolder~~.  Do not create the subfolders for this.  Instead use the `cateogry` tag inside the front matter to create the permalink to _look_ like a subfolder.
 
-trying to get as much of the file to look like the demo site now...
+Moved an image over for the teaser.  Link here does not need to include `/images/`, just the file name.
+
+Things left to do
+ - modify the home page to look more professional, guess I need some HTML for this
+ - create portfolio section and give it a nav link
+ - create a couple more blog posts to see how they all lineup together
+ - create a static page or two and see how those work
