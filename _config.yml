@@ -32,14 +32,17 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
+#prose config
 prose:
+	rooturl: '_posts'
 	metadata: 
       _posts: 
           - name: "title"
-              field: "text"
-              lable: "Title"
-              value: ""
-        
+              field: 
+                element: "text"
+                lable: "Title"
+                value: ""
+          
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
