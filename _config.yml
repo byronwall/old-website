@@ -33,11 +33,12 @@ owner:
 disqus-shortname:
 
 prose:
-	_posts:
-    	- name: "title"
-        	field: "text"
-            lable: "Title"
-            value: ""
+	metadata: 
+      _posts: 
+          - name: "title"
+              field: "text"
+              lable: "Title"
+              value: ""
         
 
 
