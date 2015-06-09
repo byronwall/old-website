@@ -33,7 +33,7 @@ owner:
 disqus-shortname:
 
 #prose config
-prose:
+prose: 
 	rooturl: '_posts'
 	metadata: 
       _posts: 
