@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: false
-title: "C# portfolio page"
+title: C(sharp) portfolio page
 ---
 
 ##Summary
