@@ -1,9 +1,10 @@
 ---
-layout: blog
+layout: article
 published: true
 title: C(sharp) portfolio page
 category: blog
 ---
+
 
 ##Summary
 Most of my C# work has been done on the side to solve small and interesting problems, general utility helpers at work, and one or two serious programs.
