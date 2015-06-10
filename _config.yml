@@ -40,7 +40,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "Text"
+          element: "text"
           label: "layout"
           value: "article"
       - name: "title"
