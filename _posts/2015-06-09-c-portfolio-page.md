@@ -2,6 +2,7 @@
 layout: blog
 published: true
 title: C(sharp) portfolio page
+category: blog
 ---
 
 ##Summary
