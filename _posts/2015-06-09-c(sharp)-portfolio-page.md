@@ -15,6 +15,7 @@ In my first internsip, I built a C# program to gather process historian data to 
 
 ##last.fm scrobbler
 This was a side project built mostly to experiment with WPF.  It dialed in to the iTunes event library and tracked songs that were playing and scrobbled them at the half way point.  The program also made requests to last.fm to provide some data and context about the currently playing song (related artists mostly).  Other features included:
+
  - queue and historical log so that offline scrobbles could be made after the fact
  - program had an updater that could run alongside and pull down fresh updates
  - maintained its own database of songs that were played and provided some analytics of that data (this never got as far as I hoped)
@@ -28,6 +29,7 @@ With a strong background in Excel / VBA programming, it is fairly natural to als
  
 ##countless utilities
 Barely worth mentioning all of the utility code that has been written over the years (but I will):
+
  - file watching programs to track changes on networked locations
  - `Timer` based programs to do who knows what at this point (I used to love putting these in the system tray to just check things)
  - Microsoft Charting related programs (I was fairly active for a while on the MS forum answering those questions)
