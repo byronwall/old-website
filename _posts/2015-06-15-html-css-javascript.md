@@ -6,7 +6,7 @@ category: blog
 ---
 
 ## Web work
-This is a rough summary of the variou web based projects that I have completed over the years.  I have a passion for trying out whatever new technology is out there.  Usually a new framework or library makes a previous project much more doable, and it's a good excuse to finish a project and learn something new.
+This is a rough summary of the various web based projects that I have completed over the years.  I have a passion for trying out whatever new technology is out there.  Usually a new framework or library makes a previous project much more doable, and it's a good excuse to finish a project and learn something new.
 
 My major web project was the runnDAILY website which is written up elsewhere.  These other projects focused on other aspects of web development.
 
