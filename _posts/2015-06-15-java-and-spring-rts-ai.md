@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 title: Java and Spring RTS AI
 layout: article
 category: blog
 ---
+
 
 ## Spring RTS AI
 I grew up loving to play Total Annihilation and was always awed at how people created AIs for RTS games.  When I noticed Spring, my first thought was: when will I extend this to create my own AI.
