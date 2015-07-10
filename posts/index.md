@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /posts
 title: "Latest Posts"
 ---
 
