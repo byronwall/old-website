@@ -13,15 +13,15 @@ title: "Latest Posts"
     </div>
 
 
-		<div id="main" role="main">
-        <div class="wrap">
-          <div class="page-title">
-            <h1></h1>
+<div id="main" role="main">
+    <div class="wrap">
+      <div class="page-title">
+        <h1></h1>
 
-          </div>
-          <div class="archive-wrap">
-            <div class="page-content">
-              <div class="tiles">
+      </div>
+      <div class="archive-wrap">
+        <div class="page-content">
+          <div class="tiles">
 
 <div class="tile">
   <h2 class="post-title">Built for Jekyll 2</h2>
@@ -46,7 +46,7 @@ title: "Latest Posts"
 </div>
 <!-- /.tiles -->
 
-            </div><!-- /.page-content -->
-          </div><!-- /.archive-wrap -->
-        </div><!-- /.wrap -->
-      </div>
+      </div><!-- /.page-content -->
+    </div><!-- /.archive-wrap -->
+  </div><!-- /.wrap -->
+</div>
