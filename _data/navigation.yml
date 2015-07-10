@@ -1,6 +1,6 @@
 # Site navigation links
 
 - title: blog
-  url: /posts/
+  url: /posts
   excerpt: "this is where all the blog stuff is kept"
   image:
